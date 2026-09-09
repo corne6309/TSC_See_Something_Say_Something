@@ -1,0 +1,667 @@
+[
+  {
+    "id": "4169",
+    "name": "1 Hotel Hanalei Bay",
+    "region": "West",
+    "state": "HI",
+    "rvp": "Alan Ching",
+    "manager": "Joel Ortiz",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 22.22146,
+    "lng": -159.496433,
+    "address": "5520 Ka Haku Rd, Princeville, HI, 96722"
+  },
+  {
+    "id": "1005",
+    "name": "Ballys (El Dorado) Shreveport",
+    "region": "Central",
+    "state": "LA",
+    "rvp": "Harrison Hutchinson",
+    "manager": "Roger Barco",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": true,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 32.519181,
+    "lng": -93.747301,
+    "address": "451 CLYDE FANT PKWY, SHREVEPORT, LA, 71101"
+  },
+  {
+    "id": "1072",
+    "name": "Foxwoods Casino",
+    "region": "East",
+    "state": "CT",
+    "rvp": "Anibal Fernandez",
+    "manager": "Farhad Khaledi",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 41.473321,
+    "lng": -71.959655,
+    "address": "350 TROLLEY LINE BLVD, LEDYARD, CT, 6338"
+  },
+  {
+    "id": "4177",
+    "name": "Garden of the Gods",
+    "region": "West",
+    "state": "CO",
+    "rvp": "Alan Ching",
+    "manager": "Alan Ching",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": true,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 38.881239,
+    "lng": -104.868856,
+    "address": "3320 Mesa Rd, Colorado Springs, CO, 80904"
+  },
+  {
+    "id": "1055",
+    "name": "Golden Nugget",
+    "region": "Central",
+    "state": "LA",
+    "rvp": "Harrison Hutchinson",
+    "manager": "Maritzza Odom",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 30.222341,
+    "lng": -93.263529,
+    "address": "2550 GOLDEN NUGGET BLVD, LAKE CHARLES, LA, 70601"
+  },
+  {
+    "id": "4173",
+    "name": "Great Wolf Lodge",
+    "region": "East",
+    "state": "CT",
+    "rvp": "Anibal Fernandez",
+    "manager": "Kalet Garcia Torres",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 41.488346,
+    "lng": -71.961914,
+    "address": "201 Great Wolf Drive, Mashantucket, CT, 6338"
+  },
+  {
+    "id": "999-1",
+    "name": "Hilton LAX",
+    "region": "West",
+    "state": "CA",
+    "rvp": "Alan Ching",
+    "manager": "",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": true,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 33.945622,
+    "lng": -118.381372,
+    "address": "5711 W Century Blvd, Los Angeles, CA, 90045"
+  },
+  {
+    "id": "999-3",
+    "name": "Holiday Inn Sulphur",
+    "region": "Central",
+    "state": "LA",
+    "rvp": "Harrison Hutchinson",
+    "manager": "Harrison Hutchinson",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 30.214247,
+    "lng": -93.327927,
+    "address": "102 Mallard Road, Sulphur, LA, 70665"
+  },
+  {
+    "id": "4011",
+    "name": "Hyatt Regency Greenwich",
+    "region": "Mid-Atlantic",
+    "state": "CT",
+    "rvp": "Eva Nika",
+    "manager": "Richard Pierre",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": true,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 41.047621,
+    "lng": -73.567949,
+    "address": "1800 E PUTNAM AVE, OLD GREENWICH, CT, 6870"
+  },
+  {
+    "id": "7022",
+    "name": "Hyatt Regency Pinon Pointe VO",
+    "region": "West",
+    "state": "AZ",
+    "rvp": "Alan Ching",
+    "manager": "Esmeralda Medina Silva",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": false,
+      "Public Areas": true,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 34.866087,
+    "lng": -111.763479,
+    "address": "1 N. STATE ROAD 89A, SEDONA, AZ, 86336"
+  },
+  {
+    "id": "1012",
+    "name": "LAuberge Casino Resort",
+    "region": "Central",
+    "state": "LA",
+    "rvp": "Harrison Hutchinson",
+    "manager": "Maritza Odom",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": true,
+      "Public Areas": false,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 30.217317,
+    "lng": -93.264648,
+    "address": "777 AVE LAUBERGE, LAKE CHARLES, LA, 70601"
+  },
+  {
+    "id": "4154",
+    "name": "LegacyHotelandIMGABradenton",
+    "region": "Florida",
+    "state": "FL",
+    "rvp": "Tayquan Taylor",
+    "manager": "Alina Pichs Martinez",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": false,
+      "Public Areas": true,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 27.444718,
+    "lng": -82.608217,
+    "address": "5450 BOLLETTIERI BLVD, BRADENTON, FL, 34210"
+  },
+  {
+    "id": "9021",
+    "name": "Linq Promenade Las Vegas9021",
+    "region": "West",
+    "state": "NV",
+    "rvp": "Alan Ching",
+    "manager": "Andy Galan",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": true,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 36.117694,
+    "lng": -115.172778,
+    "address": "3535 LAS VEGAS BLVD S, LAS VEGAS, NV, 89109"
+  },
+  {
+    "id": "997",
+    "name": "Little Creek Casino",
+    "region": "West",
+    "state": "WA",
+    "rvp": "Alan Ching",
+    "manager": "Latoya Jackson",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": true,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 47.195914,
+    "lng": -122.976535,
+    "address": "91 West State, Shelton, WA, 98584"
+  },
+  {
+    "id": "1092",
+    "name": "Live Casino & Hotel",
+    "region": "Central",
+    "state": "LA",
+    "rvp": "Harrison Hutchinson",
+    "manager": "Caren Butterworth EVS",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": true,
+      "Public Areas": false,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 32.518664,
+    "lng": -93.722543,
+    "address": "711 DIAMON JACKS BLVD, BOSSIER CITY, LA, 71111"
+  },
+  {
+    "id": "1092-2",
+    "name": "Live Casino & Hotel",
+    "region": "Central",
+    "state": "LA",
+    "rvp": "Harrison Hutchinson",
+    "manager": "Robin Zamudio HSK",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 32.518664,
+    "lng": -93.722543,
+    "address": "711 DIAMON JACKS BLVD, BOSSIER CITY, LA, 71111"
+  },
+  {
+    "id": "1000",
+    "name": "Mohegan Casino",
+    "region": "Mid-Atlantic",
+    "state": "PA",
+    "rvp": "Eva Nika",
+    "manager": "Michelle Santos",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 41.266631,
+    "lng": -75.821601,
+    "address": "1280 Highway 315, Wilkes Barre, PA, 18702"
+  },
+  {
+    "id": "1093",
+    "name": "Muckleshoot Casino",
+    "region": "West",
+    "state": "WA",
+    "rvp": "Alan Ching",
+    "manager": "Latoya Jackson",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": false,
+      "Public Areas": true,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 47.289074,
+    "lng": -122.196507,
+    "address": "2402 Auburn Way S, Auburn, WA, 98002"
+  },
+  {
+    "id": "999-2",
+    "name": "Omni Homestead",
+    "region": "Mid-Atlantic",
+    "state": "VA",
+    "rvp": "Eva Nika",
+    "manager": "Marvin Martin",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 37.997872,
+    "lng": -79.832336,
+    "address": "7696 Sam Snead Hwy, Hot Springs, VA, 24445"
+  },
+  {
+    "id": "1100",
+    "name": "Osage Casino Downtown Tulsa",
+    "region": "West",
+    "state": "OK",
+    "rvp": "Alan Ching",
+    "manager": "Joshua Goodhue",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 36.205433,
+    "lng": -96.010284,
+    "address": "951 W 36th Street North, Tulsa, OK, 74127"
+  },
+  {
+    "id": "4014",
+    "name": "Peabody Memphis",
+    "region": "Central",
+    "state": "TN",
+    "rvp": "Harrison Hutchinson",
+    "manager": "Harrison Hutchinson",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": true,
+      "Public Areas": false,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 35.142397,
+    "lng": -90.0508,
+    "address": "149 UNION AVE, MEMPHIS, TN, 38103"
+  },
+  {
+    "id": "9028",
+    "name": "Riverside Hospital",
+    "region": "West",
+    "state": "CA",
+    "rvp": "Alan Ching",
+    "manager": "Alan Ching",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 33.976231,
+    "lng": -117.378386,
+    "address": "4445 Magnolia Ave, Riverside, CA, 92501"
+  },
+  {
+    "id": "4023",
+    "name": "Roosevelt New Orleans",
+    "region": "Central",
+    "state": "LA",
+    "rvp": "Harrison Hutchinson",
+    "manager": "",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": true,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 29.954088,
+    "lng": -90.071271,
+    "address": "123 BARONNE ST, NEW ORLEANS, LA, 70112"
+  },
+  {
+    "id": "7050",
+    "name": "SaddleBrook Resort",
+    "region": "Florida",
+    "state": "FL",
+    "rvp": "Tayquan Taylor",
+    "manager": "Carley Wike",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 28.234897,
+    "lng": -82.3293,
+    "address": "5700 Saddlebrook Way, Wesley Chapel, FL, 33543"
+  },
+  {
+    "id": "1070",
+    "name": "Sams Town Shreveport",
+    "region": "Central",
+    "state": "LA",
+    "rvp": "Harrison Hutchinson",
+    "manager": "Zawaunyka Washington",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 32.519679,
+    "lng": -93.747832,
+    "address": "315 CLYDE FANT PKWY, SHREVEPORT, LA, 71101"
+  },
+  {
+    "id": "4171",
+    "name": "Sea Island Resort",
+    "region": "West",
+    "state": "HI",
+    "rvp": "Anibal Fernandez",
+    "manager": "Martha Maruri",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": true,
+      "Public Areas": false,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 22.22146,
+    "lng": -159.496433,
+    "address": "5520 Ka Haku Rd, Princeville, HI, 96722"
+  },
+  {
+    "id": "4172",
+    "name": "Sea Island Resort GA",
+    "region": "East",
+    "state": "GA",
+    "rvp": "Anibal Fernandez",
+    "manager": "",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": true,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 31.180715,
+    "lng": -81.350115,
+    "address": "100 CLOISTER DR, SEA ISLAND, GA, 31561"
+  },
+  {
+    "id": "9026",
+    "name": "Southern Hills Hospital",
+    "region": "West",
+    "state": "NV",
+    "rvp": "Alan Ching",
+    "manager": "Martha Maruri",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 36.070324,
+    "lng": -115.294382,
+    "address": "9300 W Sunset Rd, LAS VEGAS, NV, 89148"
+  },
+  {
+    "id": "4175",
+    "name": "The Jacquard Hotel",
+    "region": "West",
+    "state": "CO",
+    "rvp": "Alan Ching",
+    "manager": "Alan Ching",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 39.71714,
+    "lng": -104.953531,
+    "address": "22 Milwaukee Street, Denver, CO, 80206"
+  },
+  {
+    "id": "4174",
+    "name": "The Oxford Hotel",
+    "region": "West",
+    "state": "CO",
+    "rvp": "Alan Ching",
+    "manager": "Alan Ching",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": true,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 39.752173,
+    "lng": -104.998915,
+    "address": "1600 17th Street, Denver, CO, 80202"
+  },
+  {
+    "id": "7038",
+    "name": "Tucker Century Millenia",
+    "region": "Florida",
+    "state": "FL",
+    "rvp": "Tayquan Taylor",
+    "manager": "Tayquan Taylor",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 28.477961,
+    "lng": -81.44233,
+    "address": "5100 Millenia Waters Dr, Orlando, FL, 32839"
+  },
+  {
+    "id": "7037",
+    "name": "Tucker Palmer Dadeland",
+    "region": "Florida",
+    "state": "FL",
+    "rvp": "Tayquan Taylor",
+    "manager": "Tayquan Taylor",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 25.693952,
+    "lng": -80.309208,
+    "address": "8215 SW 72nd Ave, Miami, FL, 33134"
+  },
+  {
+    "id": "1091",
+    "name": "Turfway Park Racing & Casino",
+    "region": "Central",
+    "state": "KY",
+    "rvp": "Harrison Hutchinson",
+    "manager": "Sara Abbas",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": true,
+      "Public Areas": true,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 39.019978,
+    "lng": -84.637676,
+    "address": "7500 Turfway Rd, Florence, KY, 41042"
+  },
+  {
+    "id": "4180",
+    "name": "Westin Fort Lauderdale",
+    "region": "Florida",
+    "state": "FL",
+    "rvp": "Tayquan Taylor",
+    "manager": "Ariel Christopher",
+    "sections": {
+      "Housekeeping": false,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 26.126866,
+    "lng": -80.103654,
+    "address": "321 N Fort Lauderdale Beach Blvd, Fort Lauderdale, FL, 33304"
+  },
+  {
+    "id": "1089",
+    "name": "Wind Creek Casino",
+    "region": "Mid-Atlantic",
+    "state": "PA",
+    "rvp": "Eva Nika",
+    "manager": "Michelle Santos",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": true,
+      "Public Areas": true,
+      "Kitchen/Stewarding": true,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "lat": 40.61391,
+    "lng": -75.358845,
+    "address": "77 Sands Blvd, Bethlehem, PA, 18015"
+  }
+]
