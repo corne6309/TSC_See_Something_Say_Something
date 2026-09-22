@@ -5,7 +5,7 @@
     "region": "West",
     "state": "HI",
     "rvp": "Alan Ching",
-    "manager": "Joel Ortiz",
+    "manager": "Farhad Khaledi",
     "sections": {
       "Housekeeping": true,
       "EVS": false,
@@ -43,7 +43,7 @@
     "region": "East",
     "state": "CT",
     "rvp": "Anibal Fernandez",
-    "manager": "Farhad Khaledi",
+    "manager": "Kalet Garcia Torres",
     "sections": {
       "Housekeeping": false,
       "EVS": false,
@@ -157,7 +157,7 @@
     "region": "Mid-Atlantic",
     "state": "CT",
     "rvp": "Eva Nika",
-    "manager": "Richard Pierre",
+    "manager": "Jonathan St. Louis",
     "sections": {
       "Housekeeping": false,
       "EVS": false,
@@ -499,7 +499,7 @@
     "region": "East",
     "state": "GA",
     "rvp": "Anibal Fernandez",
-    "manager": "",
+    "manager": "Martha Maruri",
     "sections": {
       "Housekeeping": false,
       "EVS": false,
