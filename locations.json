@@ -247,7 +247,7 @@
   },
   {
     "id": "4154",
-    "name": "LegacyHotelandIMGABradenton",
+    "name": "Legacy Hotel and IMGA Bradenton",
     "region": "Florida",
     "state": "FL",
     "rvp": "Tayquan Taylor",
@@ -276,25 +276,6 @@
       "EVS": false,
       "Public Areas": false,
       "Kitchen/Stewarding": true,
-      "Vehicles": false,
-      "Golf Carts": false
-    },
-    "lat": 22.22146,
-    "lng": -159.496433,
-    "address": "5520 Ka Haku Rd, Princeville, HI, 96722"
-  },
-  {
-    "id": "4171",
-    "name": "Sea Island Resort",
-    "region": "West",
-    "state": "HI",
-    "rvp": "Alan Ching",
-    "manager": "Martha Maruri",
-    "sections": {
-      "Housekeeping": false,
-      "EVS": true,
-      "Public Areas": false,
-      "Kitchen/Stewarding": false,
       "Vehicles": false,
       "Golf Carts": false
     },
@@ -360,25 +341,6 @@
     "address": "1600 17th Street, Denver, CO, 80202"
   },
   {
-    "id": "4175",
-    "name": "The Jacquard Hotel",
-    "region": "West",
-    "state": "CO",
-    "rvp": "Alan Ching",
-    "manager": "Alan Ching",
-    "sections": {
-      "Housekeeping": false,
-      "EVS": false,
-      "Public Areas": false,
-      "Kitchen/Stewarding": true,
-      "Vehicles": false,
-      "Golf Carts": false
-    },
-    "lat": 39.71714,
-    "lng": -104.953531,
-    "address": "22 Milwaukee Street, Denver, CO, 80206"
-  },
-  {
     "id": "4177",
     "name": "Garden of the Gods",
     "region": "West",
@@ -396,25 +358,6 @@
     "lat": 38.881239,
     "lng": -104.868856,
     "address": "3320 Mesa Rd, Colorado Springs, CO, 80904"
-  },
-  {
-    "id": "4180",
-    "name": "Westin Fort Lauderdale",
-    "region": "Florida",
-    "state": "FL",
-    "rvp": "Tayquan Taylor",
-    "manager": "Ariel Christopher",
-    "sections": {
-      "Housekeeping": false,
-      "EVS": false,
-      "Public Areas": false,
-      "Kitchen/Stewarding": true,
-      "Vehicles": false,
-      "Golf Carts": false
-    },
-    "lat": 26.126866,
-    "lng": -80.103654,
-    "address": "321 N Fort Lauderdale Beach Blvd, Fort Lauderdale, FL, 33304"
   },
   {
     "id": "7022",
@@ -455,27 +398,8 @@
     "address": "5100 Millenia Waters Dr, Orlando, FL, 32839"
   },
   {
-    "id": "7050",
-    "name": "SaddleBrook Resort",
-    "region": "Florida",
-    "state": "FL",
-    "rvp": "Tayquan Taylor",
-    "manager": "Carley Wike",
-    "sections": {
-      "Housekeeping": true,
-      "EVS": false,
-      "Public Areas": false,
-      "Kitchen/Stewarding": false,
-      "Vehicles": false,
-      "Golf Carts": false
-    },
-    "lat": 28.234897,
-    "lng": -82.3293,
-    "address": "5700 Saddlebrook Way, Wesley Chapel, FL, 33543"
-  },
-  {
     "id": "9021",
-    "name": "Linq Promenade Las Vegas9021",
+    "name": "Linq Promenade Las Vegas",
     "region": "West",
     "state": "NV",
     "rvp": "Alan Ching",
