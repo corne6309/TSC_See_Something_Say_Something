@@ -360,6 +360,24 @@
     "address": "3320 Mesa Rd, Colorado Springs, CO, 80904"
   },
   {
+    "id": "4184",
+    "name": "Westgate Resort & Spa",
+    "region": "Florida",
+    "state": "FL",
+    "rvp": "Tayquan Taylor",
+    "manager": "",
+    "sections": {
+      "Housekeeping": true,
+      "EVS": false,
+      "Public Areas": false,
+      "Kitchen/Stewarding": false,
+      "Vehicles": false,
+      "Golf Carts": false
+    },
+    "activeSince": "Q4 2026",
+    "address": ""
+  },
+  {
     "id": "7022",
     "name": "Hyatt Regency Pinon Pointe VO",
     "region": "West",
