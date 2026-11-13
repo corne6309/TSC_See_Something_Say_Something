@@ -397,25 +397,6 @@
     "address": "1 N. STATE ROAD 89A, SEDONA, AZ, 86336"
   },
   {
-    "id": "7038",
-    "name": "Tucker Century Millenia",
-    "region": "Florida",
-    "state": "FL",
-    "rvp": "Tayquan Taylor",
-    "manager": "Tayquan Taylor",
-    "sections": {
-      "Housekeeping": true,
-      "EVS": false,
-      "Public Areas": false,
-      "Kitchen/Stewarding": true,
-      "Vehicles": false,
-      "Golf Carts": false
-    },
-    "lat": 28.477961,
-    "lng": -81.44233,
-    "address": "5100 Millenia Waters Dr, Orlando, FL, 32839"
-  },
-  {
     "id": "9021",
     "name": "Linq Promenade Las Vegas",
     "region": "West",
